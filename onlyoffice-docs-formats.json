@@ -340,7 +340,7 @@
         "type": "slide",
         "actions": ["view", "edit"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potx", "ppsm", "ppsx", "pptm"],
-        "mime": "application/vnd.ms-powerpoint.template.macroenabled.12"
+        "mime": ["application/vnd.ms-powerpoint.template.macroenabled.12"]
     },
     {
         "name": "potx",
