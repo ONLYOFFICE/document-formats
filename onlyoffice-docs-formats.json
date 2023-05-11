@@ -98,6 +98,13 @@
         "mime": ["message/rfc822"]
     },
     {
+        "name": "mhtml",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["message/rfc822"]
+    },
+    {
         "name": "odt",
         "type": "word",
         "actions": ["view", "lossy-edit"],
@@ -140,11 +147,39 @@
         "mime": ["application/rtf", "text/rtf"]
     },
     {
+        "name": "stw",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/vnd.sun.xml.writer.template"]
+    },
+    {
+        "name": "sxw",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/vnd.sun.xml.writer"]
+    },
+    {
         "name": "txt",
         "type": "word",
         "actions": ["view", "lossy-edit"],
         "convert": [],
         "mime": ["text/plain"]
+    },
+    {
+        "name": "wps",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/vnd.ms-works"]
+    },
+    {
+        "name": "wpt",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": []
     },
     {
         "name": "xml",
@@ -168,6 +203,20 @@
         "mime": ["text/csv", "application/csv", "text/x-comma-separated-values", "text/x-csv"]
     },
     {
+        "name": "et",
+        "type": "cell",
+        "actions": ["view"],
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
+        "mime": []
+    },
+    {
+        "name": "ett",
+        "type": "cell",
+        "actions": ["view"],
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
+        "mime": []
+    },
+    {
         "name": "fods",
         "type": "cell",
         "actions": ["view"],
@@ -187,6 +236,13 @@
         "actions": ["view", "lossy-edit"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-template"]
+    },
+    {
+        "name": "sxc",
+        "type": "cell",
+        "actions": ["view"],
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
+        "mime": ["application/vnd.sun.xml.calc"]
     },
     {
         "name": "xls",
@@ -236,6 +292,20 @@
         "actions": ["view", "edit"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm"],
         "mime": ["application/vnd.openxmlformats-officedocument.spreadsheetml.template"]
+    },
+    {
+        "name": "dps",
+        "type": "slide",
+        "actions": ["view"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "mime": []
+    },
+    {
+        "name": "dpt",
+        "type": "slide",
+        "actions": ["view"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "mime": []
     },
     {
         "name": "fodp",
@@ -320,5 +390,12 @@
         "actions": ["view", "edit"],
         "convert": ["bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.openxmlformats-officedocument.presentationml.presentation"]
+    },
+    {
+        "name": "sxi",
+        "type": "slide",
+        "actions": ["view"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "mime": ["application/vnd.sun.xml.impress"]
     }
 ]
