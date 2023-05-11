@@ -84,6 +84,13 @@
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
     {
+        "name": "htm",
+        "type": "word",
+        "actions": ["view", "edit"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["text/html"]
+    },
+    {
         "name": "html",
         "type": "word",
         "actions": ["view", "lossy-edit"],
