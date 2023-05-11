@@ -84,13 +84,6 @@
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
     {
-        "name": "htm",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["text/html"]
-    },
-    {
         "name": "html",
         "type": "word",
         "actions": ["view", "lossy-edit"],
@@ -99,13 +92,6 @@
     },
     {
         "name": "mht",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["message/rfc822"]
-    },
-    {
-        "name": "mhtml",
         "type": "word",
         "actions": ["view", "edit"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
@@ -147,39 +133,11 @@
         "mime": ["application/rtf", "text/rtf"]
     },
     {
-        "name": "stw",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.sun.xml.writer.template"]
-    },
-    {
-        "name": "sxw",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.sun.xml.writer"]
-    },
-    {
         "name": "txt",
         "type": "word",
         "actions": ["view", "lossy-edit"],
         "convert": [],
         "mime": ["text/plain"]
-    },
-    {
-        "name": "wps",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.ms-works"]
-    },
-    {
-        "name": "wpt",
-        "type": "word",
-        "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": []
     },
     {
         "name": "xps",
@@ -203,20 +161,6 @@
         "mime": ["text/csv", "application/csv", "text/x-comma-separated-values", "text/x-csv"]
     },
     {
-        "name": "et",
-        "type": "cell",
-        "actions": ["view", "edit"],
-        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
-        "mime": []
-    },
-    {
-        "name": "ett",
-        "type": "cell",
-        "actions": ["view", "edit"],
-        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
-        "mime": []
-    },
-    {
         "name": "fods",
         "type": "cell",
         "actions": ["view", "edit"],
@@ -238,25 +182,11 @@
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-template"]
     },
     {
-        "name": "sxc",
-        "type": "cell",
-        "actions": ["view", "edit"],
-        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
-        "mime": ["application/vnd.sun.xml.calc"]
-    },
-    {
         "name": "xls",
         "type": "cell",
         "actions": ["view", "edit"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel"]
-    },
-    {
-        "name": "xlsb",
-        "type": "cell",
-        "actions": ["view", "edit"],
-        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
-        "mime": ["application/vnd.ms-excel.sheet.binary.macroenabled.12"]
     },
     {
         "name": "xlsm",
@@ -292,20 +222,6 @@
         "actions": ["view", "edit"],
         "convert": [],
         "mime": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm"]
-    },
-    {
-        "name": "dps",
-        "type": "slide",
-        "actions": ["view", "edit"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
-        "mime": []
-    },
-    {
-        "name": "dpt",
-        "type": "slide",
-        "actions": ["view", "edit"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
-        "mime": []
     },
     {
         "name": "fodp",
@@ -390,12 +306,5 @@
         "actions": ["view", "edit"],
         "convert": ["bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.openxmlformats-officedocument.presentationml.presentation"]
-    },
-    {
-        "name": "sxi",
-        "type": "slide",
-        "actions": ["view", "edit"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
-        "mime": ["application/vnd.sun.xml.impress"]
     }
 ]
