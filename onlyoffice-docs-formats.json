@@ -23,7 +23,7 @@
     {
         "name": "docx",
         "type": "word",
-        "actions": ["view", "edit", "fill"],
+        "actions": ["view", "edit"],
         "convert": ["docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document"]
     },
