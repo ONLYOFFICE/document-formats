@@ -227,8 +227,8 @@
         "name": "xltx",
         "type": "cell",
         "actions": ["view", "edit"],
-        "convert": [],
-        "mime": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm"]
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm"],
+        "mime": ["application/vnd.openxmlformats-officedocument.spreadsheetml.template"]
     },
     {
         "name": "fodp",
