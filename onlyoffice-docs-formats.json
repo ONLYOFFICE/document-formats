@@ -9,7 +9,7 @@
     {
         "name": "doc",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/msword"]
     },
@@ -44,7 +44,7 @@
     {
         "name": "dot",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/msword"]
     },
@@ -79,7 +79,7 @@
     {
         "name": "fodt",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
@@ -100,7 +100,7 @@
     {
         "name": "mht",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["message/rfc822"]
     },
@@ -170,7 +170,7 @@
     {
         "name": "fods",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-flat-xml"]
     },
@@ -191,7 +191,7 @@
     {
         "name": "xls",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel"]
     },
@@ -212,7 +212,7 @@
     {
         "name": "xlt",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel"]
     },
@@ -233,7 +233,7 @@
     {
         "name": "fodp",
         "type": "slide",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.oasis.opendocument.presentation-flat-xml"]
     },
@@ -254,7 +254,7 @@
     {
         "name": "pot",
         "type": "slide",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.ms-powerpoint"]
     },
@@ -275,7 +275,7 @@
     {
         "name": "pps",
         "type": "slide",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.ms-powerpoint"]
     },
@@ -296,7 +296,7 @@
     {
         "name": "ppt",
         "type": "slide",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.ms-powerpoint"]
     },
