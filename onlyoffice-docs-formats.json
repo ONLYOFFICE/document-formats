@@ -31,15 +31,8 @@
         "name": "docxf",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "oform", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "oform", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.docxf"]
-    },
-    {
-        "name": "oform",
-        "type": "word",
-        "actions": ["view", "fill"],
-        "convert": ["pdf"],
-        "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.oform"]
     },
     {
         "name": "dot",
@@ -112,6 +105,13 @@
         "mime": ["application/vnd.oasis.opendocument.text"]
     },
     {
+        "name": "oform",
+        "type": "word",
+        "actions": ["view", "fill"],
+        "convert": ["pdf"],
+        "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.oform"]
+    },
+    {
         "name": "ott",
         "type": "word",
         "actions": ["view", "lossy-edit"],
@@ -147,18 +147,18 @@
         "mime": ["text/plain"]
     },
     {
-        "name": "xps",
-        "type": "word",
-        "actions": ["view"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
-    },
-    {
         "name": "xml",
         "type": "word",
         "actions": ["view", "edit"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/xml", "text/xml"]
+    },
+    {
+        "name": "xps",
+        "type": "word",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
         "name": "csv",
