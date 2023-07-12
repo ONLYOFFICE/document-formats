@@ -79,7 +79,7 @@
     {
         "name": "htm",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["text/html"]
     },
@@ -149,7 +149,7 @@
     {
         "name": "xml",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/xml", "text/xml"]
     },
