@@ -12,7 +12,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For viewing:**
 * **WORD:** DJVU, DOC, DOCM, DOCX, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, ODT, OFORM, OTT, OXPS, PDF, RTF, TXT, XML, XPS
-* **CELL:** CSV, FODS, ODS, OTS, XLS, XLSM, XLSX, XLT, XLTM, XLTX
+* **CELL:** CSV, FODS, ODS, OTS, XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
 * **SLIDE:** FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX
 
 **For editing:**
@@ -34,5 +34,5 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 **For converting to Office Open XML formats:**
 
 * **WORD:** DOC, DOCM, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, ODT, OTT, OXPS, PDF, RTF, XML, XPS
-* **CELL:** FODS, ODS, OTS, XLS, XLSM, XLT, XLTM, XLTX
+* **CELL:** FODS, ODS, OTS, XLS, XLSB, XLSM, XLT, XLTM, XLTX
 * **SLIDE:** FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM

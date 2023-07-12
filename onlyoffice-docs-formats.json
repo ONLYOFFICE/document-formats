@@ -196,6 +196,13 @@
         "mime": ["application/vnd.ms-excel"]
     },
     {
+        "name": "xlsb",
+        "type": "cell",
+        "actions": ["view"],
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
+        "mime": ["application/vnd.ms-excel.sheet.binary.macroenabled.12"]
+    },
+    {
         "name": "xlsm",
         "type": "cell",
         "actions": ["view", "edit"],
