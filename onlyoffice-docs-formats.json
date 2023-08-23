@@ -164,7 +164,7 @@
         "name": "txt",
         "type": "word",
         "actions": ["view", "lossy-edit"],
-        "convert": [],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf"],
         "mime": ["text/plain"]
     },
     {
@@ -199,7 +199,7 @@
         "name": "csv",
         "type": "cell",
         "actions": ["view", "lossy-edit"],
-        "convert": [],
+        "convert": ["xlsx", "bmp", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["text/csv", "application/csv", "text/x-comma-separated-values", "text/x-csv"]
     },
     {
