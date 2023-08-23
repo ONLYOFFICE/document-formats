@@ -1,7 +1,6 @@
 # Change Log
 
-##
-- added mhtml, stw, sxw, wps, wpt, et, ett, sxc, dps, dpt, sxi
+## 1.0.0
 - formats for viewing, editing and lossy editing
 - formats for conversions
 - mime-types of formats
