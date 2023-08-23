@@ -2,6 +2,11 @@
 
 This repository contains the list of file formats (electronic documents, forms, spreadsheets, presentations) supported by ONLYOFFICE editors and describes the properties of each file format type.
 
+The repository is used in:
+* [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
+* [Confluence ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-confluence)
+* [Nuxeo ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-nuxeo)
+
 ## Project info
 
 ONLYOFFICE Docs (Document Server): [github.com/ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer)
