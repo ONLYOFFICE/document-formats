@@ -1,12 +1,5 @@
 [
     {
-        "name": "djvu",
-        "type": "word",
-        "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
-        "mime": ["image/vnd.djvu"]
-    },
-    {
         "name": "doc",
         "type": "word",
         "actions": ["view", "auto-convert"],
@@ -126,20 +119,6 @@
         "mime": ["application/vnd.oasis.opendocument.text-template"]
     },
     {
-        "name": "oxps",
-        "type": "word",
-        "actions": ["view"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/oxps"]
-    },
-    {
-        "name": "pdf",
-        "type": "word",
-        "actions": ["view", "fill"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
-    },
-    {
         "name": "rtf",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
@@ -187,13 +166,6 @@
         "actions": ["view", "auto-convert"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/xml", "text/xml"]
-    },
-    {
-        "name": "xps",
-        "type": "word",
-        "actions": ["view"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
         "name": "csv",
@@ -397,6 +369,34 @@
         "actions": ["view", "auto-convert"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.sun.xml.impress"]
+    },
+    {
+        "name": "pdf",
+        "type": "pdf",
+        "actions": ["view", "fill"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
+    },
+    {
+        "name": "djvu",
+        "type": "pdf",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["image/vnd.djvu"]
+    },
+    {
+        "name": "oxps",
+        "type": "pdf",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/oxps"]
+    },
+    {
+        "name": "xps",
+        "type": "pdf",
+        "actions": ["view"],
+        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
         "name": "bmp",

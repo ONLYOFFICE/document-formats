@@ -1,5 +1,7 @@
 # Change Log
 
+- pdf as documentType in editor
+
 ## 1.1.0
 - filling pdf
 - conversion formats for txt, csv
