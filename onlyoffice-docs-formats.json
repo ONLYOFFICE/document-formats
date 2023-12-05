@@ -114,7 +114,7 @@
     {
         "name": "oform",
         "type": "word",
-        "actions": ["view", "fill"],
+        "actions": ["view"],
         "convert": ["pdf"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.oform"]
     },
