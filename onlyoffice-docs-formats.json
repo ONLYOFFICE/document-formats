@@ -135,7 +135,7 @@
     {
         "name": "pdf",
         "type": "word",
-        "actions": ["view"],
+        "actions": ["view", "fill"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
     },

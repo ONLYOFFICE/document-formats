@@ -36,7 +36,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For filling:**
 
-* **WORD**: OFORM
+* **WORD**: PDF
 
 **For converting to Office Open XML formats:**
 
