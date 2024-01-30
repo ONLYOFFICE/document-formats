@@ -1,5 +1,6 @@
 # Change Log
 
+## 1.1.0
 - filling pdf
 - conversion formats for txt, csv
 - formats for auto conversion
