@@ -31,7 +31,7 @@
         "name": "docxf",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "oform", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.docxf"]
     },
     {
