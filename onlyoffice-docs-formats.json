@@ -432,5 +432,12 @@
         "actions": [],
         "convert": [],
         "mime": ["image/png"]
+    },
+    {
+        "name": "zip",
+        "type": "",
+        "actions": [],
+        "convert": [],
+        "mime": ["application/zip"]
     }
 ]
