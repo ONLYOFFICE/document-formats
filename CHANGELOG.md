@@ -1,5 +1,8 @@
 # Change Log
 
+##
+- fb2 additional mime
+
 ## 1.1.0
 - filling pdf
 - conversion formats for txt, csv
