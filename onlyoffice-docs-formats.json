@@ -67,7 +67,7 @@
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["text/fb2+xml"]
+        "mime": ["text/fb2+xml", "application/x-fictionbook+xml"]
     },
     {
         "name": "fodt",
