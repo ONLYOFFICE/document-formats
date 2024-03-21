@@ -10,21 +10,21 @@
         "name": "doc",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/msword"]
     },
     {
         "name": "docm",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-word.document.macroenabled.12"]
     },
     {
         "name": "docx",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document"]
     },
     {
@@ -38,77 +38,77 @@
         "name": "dot",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/msword"]
     },
     {
         "name": "dotm",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-word.template.macroenabled.12"]
     },
     {
         "name": "dotx",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.template"]
     },
     {
         "name": "epub",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert":["docx", "docxf", "bmp", "docm", "dotm", "dotx", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert":["docx", "bmp", "docm", "dotm", "dotx", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/epub+zip"]
     },
     {
         "name": "fb2",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["text/fb2+xml", "application/x-fictionbook+xml"]
     },
     {
         "name": "fodt",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
     {
         "name": "htm",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["text/html"]
     },
     {
         "name": "html",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["text/html"]
     },
     {
         "name": "mht",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["message/rfc822"]
     },
     {
         "name": "mhtml",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["message/rfc822"]
     },
     {
         "name": "odt",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text"]
     },
     {
@@ -122,77 +122,77 @@
         "name": "ott",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text-template"]
     },
     {
         "name": "oxps",
         "type": "word",
         "actions": ["view"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/oxps"]
     },
     {
         "name": "pdf",
         "type": "word",
         "actions": ["view", "fill"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
     },
     {
         "name": "rtf",
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "txt"],
         "mime": ["application/rtf", "text/rtf"]
     },
     {
         "name": "stw",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.sun.xml.writer.template"]
     },
     {
         "name": "sxw",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.sun.xml.writer"]
     },
     {
         "name": "txt",
         "type": "word",
         "actions": ["view", "lossy-edit"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf"],
         "mime": ["text/plain"]
     },
     {
         "name": "wps",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-works"]
     },
     {
         "name": "wpt",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": []
     },
     {
         "name": "xml",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/xml", "text/xml"]
     },
     {
         "name": "xps",
         "type": "word",
         "actions": ["view"],
-        "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
