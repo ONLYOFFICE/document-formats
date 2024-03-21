@@ -28,9 +28,10 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For editing:**
 
-* **WORD**: DOCM, DOCX, DOCXF, DOTM, DOTX
+* **WORD**: DOCM, DOCX, DOTM, DOTX
 * **CELL**: XLSM, XLSX, XLTM, XLTX
 * **SLIDE**: POTM, POTX, PPSM, PPSX, PPTM, PPTX
+* **PDF**: PDF
 
 **For editing with possible loss of information:**
 
