@@ -30,7 +30,7 @@
     {
         "name": "docxf",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.docxf"]
     },
@@ -135,7 +135,7 @@
     {
         "name": "pdf",
         "type": "word",
-        "actions": ["view", "fill"],
+        "actions": ["view", "edit", "fill"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
     },
