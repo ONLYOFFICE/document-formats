@@ -1,5 +1,7 @@
 # Change Log
 
+##
+- fb2 additional mime
 - pdf as documentType in editor
 
 ## 1.1.0

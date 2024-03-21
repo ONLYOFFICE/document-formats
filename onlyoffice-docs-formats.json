@@ -24,7 +24,7 @@
         "name": "docxf",
         "type": "word",
         "actions": ["view", "edit"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "oform", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.docxf"]
     },
     {
@@ -60,7 +60,7 @@
         "type": "word",
         "actions": ["view", "lossy-edit", "auto-convert"],
         "convert": ["docx", "docxf", "bmp", "docm", "dotm", "dotx", "epub", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["text/fb2+xml"]
+        "mime": ["text/fb2+xml", "application/x-fictionbook+xml"]
     },
     {
         "name": "fodt",
@@ -432,5 +432,12 @@
         "actions": [],
         "convert": [],
         "mime": ["image/png"]
+    },
+    {
+        "name": "zip",
+        "type": "",
+        "actions": [],
+        "convert": [],
+        "mime": ["application/zip"]
     }
 ]
