@@ -21,10 +21,10 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 ## Supported formats
 
 **For viewing:**
-* **WORD**: DOC, DOCM, DOCX, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OFORM, OTT, RTF, STW, SXW, TXT, WPS, WPT, XML
+* **WORD**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, RTF, STW, SXW, TXT, WPS, WPT, XML
 * **CELL**: CSV, ET, ETT, FODS, ODS, OTS, SXC, XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
 * **SLIDE**: DPS, DPT, FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX, SXI
-* **PDF**: DJVU, OXPS, PDF, XPS
+* **PDF**: DJVU, DOCXF, OFORM, OXPS, PDF, XPS
 
 **For editing:**
 
@@ -45,7 +45,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For converting to Office Open XML formats:**
 
-* **WORD:** DOC, DOCM, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, RTF, STW, SXW, WPS, WPT, XML
+* **WORD:** DOC, DOCM, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, RTF, STW, SXW, WPS, WPT, XML
 * **CELL:** ET, ETT, FODS, ODS, OTS, SXC, XLS, XLSB, XLSM, XLT, XLTM, XLTX
 * **SLIDE:** DPS, DPT, FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, SXI
-* **PDF**: OXPS, PDF, XPS
+* **PDF**: DOCXF, OXPS, PDF, XPS
