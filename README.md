@@ -21,15 +21,17 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 ## Supported formats
 
 **For viewing:**
-* **WORD**: DJVU, DOC, DOCM, DOCX, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OFORM, OTT, OXPS, PDF, RTF, STW, SXW, TXT, WPS, WPT, XML, XPS
+* **WORD**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, RTF, STW, SXW, TXT, WPS, WPT, XML
 * **CELL**: CSV, ET, ETT, FODS, ODS, OTS, SXC, XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
 * **SLIDE**: DPS, DPT, FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX, SXI
+* **PDF**: DJVU, DOCXF, OFORM, OXPS, PDF, XPS
 
 **For editing:**
 
-* **WORD**: DOCM, DOCX, DOCXF, DOTM, DOTX
+* **WORD**: DOCM, DOCX, DOTM, DOTX
 * **CELL**: XLSM, XLSX, XLTM, XLTX
 * **SLIDE**: POTM, POTX, PPSM, PPSX, PPTM, PPTX
+* **PDF**: PDF
 
 **For editing with possible loss of information:**
 
@@ -39,10 +41,11 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For filling:**
 
-* **WORD**: PDF
+* **PDF**: PDF
 
 **For converting to Office Open XML formats:**
 
-* **WORD:** DOC, DOCM, DOCXF, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, OXPS, PDF, RTF, STW, SXW, WPS, WPT, XML, XPS
+* **WORD:** DOC, DOCM, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, MHT, MHTML, ODT, OTT, RTF, STW, SXW, WPS, WPT, XML
 * **CELL:** ET, ETT, FODS, ODS, OTS, SXC, XLS, XLSB, XLSM, XLT, XLTM, XLTX
 * **SLIDE:** DPS, DPT, FODP, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, SXI
+* **PDF**: DOCXF, OXPS, PDF, XPS
