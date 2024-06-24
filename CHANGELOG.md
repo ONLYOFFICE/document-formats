@@ -1,9 +1,8 @@
 # Change Log
 
-##
-- pdf documentType for docxf, oform
+## 2.0.0
+- pdf documentType for djvu,  docxf, oform, oxps, pdf, xps
 - fb2 additional mime
-- pdf as documentType in editor
 
 ## 1.1.0
 - filling pdf
