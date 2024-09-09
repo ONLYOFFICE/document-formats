@@ -434,6 +434,20 @@
         "mime": ["image/png"]
     },
     {
+        "name": "tif",
+        "type": "",
+        "actions": [],
+        "convert": [],
+        "mime": ["image/tif", "image/x-tif", "application/tif", "application/x-tif"]
+    },
+    {
+        "name": "tiff",
+        "type": "",
+        "actions": [],
+        "convert": [],
+        "mime": ["image/tiff", "image/x-tiff", "application/tiff", "application/x-tiff"]
+    },
+    {
         "name": "zip",
         "type": "",
         "actions": [],
