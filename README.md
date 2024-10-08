@@ -4,13 +4,14 @@ This repository contains the list of file formats (electronic documents, forms, 
 
 The repository is used in:
 * [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
-* [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
-* [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
 * [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
 * [Nuxeo ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-nuxeo)
+* [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
+* [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
 * [ONLYOFFICE integration app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
 * [ownCloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
 * [Redmine ONLYOFFICE Integration Plugin](https://github.com/ONLYOFFICE/onlyoffice-redmine)
+* [Telegram ONLYOFFICE Integration bot](https://github.com/ONLYOFFICE/onlyoffice-telegram)
 * [WordPress ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
 
 ## Project info
