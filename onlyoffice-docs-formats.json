@@ -434,6 +434,48 @@
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
+        "name": "vsdx",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.drawing, application/vnd.visio2013", "application/vnd.visio"]
+    },
+    {
+        "name": "vsdm",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.drawing.macroEnabled.12"]
+    },
+    {
+        "name": "vssm",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.stencil.macroEnabled.12"]
+    },
+    {
+        "name": "vssx",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.stencil"]
+    },
+    {
+        "name": "vstm",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.template.macroEnabled.12"]
+    },
+    {
+        "name": "vstx",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.template"]
+    },
+    {
         "name": "bmp",
         "type": "",
         "actions": [],

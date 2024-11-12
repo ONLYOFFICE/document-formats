@@ -1,5 +1,8 @@
 # Change Log
 
+##
+- diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
+
 ## 2.1.0
 - hwp, hwpx formats
 - pages, numbers, key formats
