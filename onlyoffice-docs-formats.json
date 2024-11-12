@@ -399,6 +399,13 @@
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
+        "name": "vsdx",
+        "type": "draw",
+        "actions": ["view"],
+        "convert": ["bmp", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.visio2013", "application/vnd.visio"]
+    },
+    {
         "name": "bmp",
         "type": "",
         "actions": [],
