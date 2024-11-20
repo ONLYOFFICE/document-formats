@@ -150,7 +150,7 @@
         "name": "xml",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "convert": ["docx", "xlsx", "bmp", "csv", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "ods", "odt", "ots", "ott", "pdf", "pdfa", "png", "rtf", "txt", "xlsm", "xltm", "xltx"],
         "mime": ["application/xml", "text/xml"]
     },
     {
