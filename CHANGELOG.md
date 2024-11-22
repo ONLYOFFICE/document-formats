@@ -1,5 +1,8 @@
 # Change Log
 
+##
+- pages, numbers, key formats
+
 ## 2.0.0
 - pdf documentType for djvu,  docxf, oform, oxps, pdf, xps
 - fb2 additional mime
