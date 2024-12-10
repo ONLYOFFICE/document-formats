@@ -9,6 +9,7 @@ The repository is used in:
 * [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
 * [ONLYOFFICE integration app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
 * [ONLYOFFICE integration app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
+* [ONLYOFFICE Integration App for Dropbox](https://github.com/ONLYOFFICE/onlyoffice-dropbox)
 * [ownCloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
 * [Redmine ONLYOFFICE Integration Plugin](https://github.com/ONLYOFFICE/onlyoffice-redmine)
 * [Telegram ONLYOFFICE Integration bot](https://github.com/ONLYOFFICE/onlyoffice-telegram)
