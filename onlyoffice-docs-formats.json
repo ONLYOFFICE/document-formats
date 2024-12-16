@@ -357,13 +357,6 @@
         "mime": ["application/vnd.sun.xml.impress"]
     },
     {
-        "name": "pdf",
-        "type": "pdf",
-        "actions": ["view", "edit", "fill"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
-    },
-    {
         "name": "djvu",
         "type": "pdf",
         "actions": ["view"],
@@ -390,6 +383,13 @@
         "actions": ["view"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/oxps"]
+    },
+    {
+        "name": "pdf",
+        "type": "pdf",
+        "actions": ["view", "edit", "fill"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/pdf", "application/acrobat", "application/nappdf", "application/x-pdf", "image/pdf"]
     },
     {
         "name": "xps",
