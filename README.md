@@ -3,6 +3,7 @@
 This repository contains the list of file formats (electronic documents, forms, spreadsheets, presentations) supported by ONLYOFFICE editors and describes the properties of each file format type.
 
 The repository is used in:
+* [Directus ONLYOFFICE extension](https://github.com/ONLYOFFICE/onlyoffice-directus)
 * [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
 * [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
 * [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
