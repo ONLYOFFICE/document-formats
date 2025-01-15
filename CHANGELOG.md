@@ -1,6 +1,7 @@
 # Change Log
 
 ##
+- hwp, hwpx formats
 - pages, numbers, key formats
 
 ## 2.0.0

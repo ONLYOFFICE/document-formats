@@ -77,6 +77,20 @@
         "mime": ["text/html"]
     },
     {
+        "name": "hwp",
+        "type": "word",
+        "actions": ["view", "auto-convert"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/x-hwp"]
+    },
+    {
+        "name": "hwpx",
+        "type": "word",
+        "actions": ["view", "auto-convert"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/x-hwpx"]
+    },
+    {
         "name": "mht",
         "type": "word",
         "actions": ["view", "auto-convert"],
