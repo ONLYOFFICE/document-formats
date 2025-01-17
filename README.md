@@ -3,18 +3,18 @@
 This repository contains the list of file formats (electronic documents, forms, spreadsheets, presentations) supported by ONLYOFFICE editors and describes the properties of each file format type.
 
 The repository is used in:
-* [Directus ONLYOFFICE extension](https://github.com/ONLYOFFICE/onlyoffice-directus)
 * [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
-* [Nextcloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
+* [ONLYOFFICE app for Nextcloud](https://github.com/ONLYOFFICE/onlyoffice-nextcloud)
 * [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
 * [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
-* [ONLYOFFICE integration app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
-* [ONLYOFFICE integration app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
-* [ONLYOFFICE Integration App for Dropbox](https://github.com/ONLYOFFICE/onlyoffice-dropbox)
-* [ownCloud ONLYOFFICE integration app](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
-* [Redmine ONLYOFFICE Integration Plugin](https://github.com/ONLYOFFICE/onlyoffice-redmine)
-* [Telegram ONLYOFFICE Integration bot](https://github.com/ONLYOFFICE/onlyoffice-telegram)
-* [WordPress ONLYOFFICE integration plugin](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
+* [ONLYOFFICE extension for Directus](https://github.com/ONLYOFFICE/onlyoffice-directus)
+* [ONLYOFFICE app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
+* [ONLYOFFICE app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
+* [ONLYOFFICE app for Dropbox](https://github.com/ONLYOFFICE/onlyoffice-dropbox)
+* [ONLYOFFICE app for ownCloud](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
+* [ONLYOFFICE bot for Telegram](https://github.com/ONLYOFFICE/onlyoffice-telegram)
+* [ONLYOFFICE plugin for Redmine](https://github.com/ONLYOFFICE/onlyoffice-redmine)
+* [ONLYOFFICE plugin for WordPress](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
 
 ## Project info
 
