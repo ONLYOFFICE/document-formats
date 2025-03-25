@@ -26,7 +26,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For viewing:**
 * **WORD**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, HWP, HWPX, MHT, MHTML, ODT, OTT, PAGES, RTF, STW, SXW, TXT, WPS, WPT, XML
-* **CELL**: CSV, ET, ETT, FODS, NUMBERS, ODS, OTS, SXC, XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
+* **CELL**: CSV, ET, ETT, FODS, NUMBERS, ODS, OTS, SXC, XLS, XLSM, XLSX, XLT, XLTM, XLTX
 * **SLIDE**: DPS, DPT, FODP, KEY, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX, SXI
 * **PDF**: DJVU, DOCXF, OFORM, OXPS, PDF, XPS
 * **DIAGRAM**: VSDM, VSDX, VSSM, VSSX, VSTM, VSTX
@@ -34,7 +34,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 **For editing:**
 
 * **WORD**: DOCM, DOCX, DOTM, DOTX
-* **CELL**: XLSM, XLSX, XLTM, XLTX
+* **CELL**: XLSB, XLSM, XLSX, XLTM, XLTX
 * **SLIDE**: POTM, POTX, PPSM, PPSX, PPTM, PPTX
 * **PDF**: PDF
 

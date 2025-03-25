@@ -240,7 +240,7 @@
     {
         "name": "xlsb",
         "type": "cell",
-        "actions": ["view", "auto-convert"],
+        "actions": ["view", "edit"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel.sheet.binary.macroenabled.12"]
     },

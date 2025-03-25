@@ -2,6 +2,7 @@
 
 ##
 - diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
+- edit xlsb
 
 ## 2.1.0
 - hwp, hwpx formats
