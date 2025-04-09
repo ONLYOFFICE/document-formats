@@ -1,6 +1,7 @@
 # Change Log
 
 ##
+- view odg
 - diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
 - edit xlsb
 

@@ -308,6 +308,13 @@
         "mime": ["application/vnd.apple.keynote", "application/x-iwork-keynote-sffkey"]
     },
     {
+        "name": "odg",
+        "type": "slide",
+        "actions": ["view"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "mime": ["application/vnd.oasis.opendocument.presentationapplication/vnd.oasis.opendocument.graphics", "application/x-vnd.oasis.opendocument.graphics"]
+    },
+    {
         "name": "odp",
         "type": "slide",
         "actions": ["view", "lossy-edit", "auto-convert"],
