@@ -310,7 +310,7 @@
     {
         "name": "odg",
         "type": "slide",
-        "actions": ["view"],
+        "actions": ["view", "auto-convert"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.oasis.opendocument.presentationapplication/vnd.oasis.opendocument.graphics", "application/x-vnd.oasis.opendocument.graphics"]
     },
