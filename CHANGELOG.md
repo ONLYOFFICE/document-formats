@@ -1,8 +1,8 @@
 # Change Log
 
-##
-- view odg, md
+## 3.0.0
 - diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
+- view odg, md
 - edit xlsb
 
 ## 2.1.0
