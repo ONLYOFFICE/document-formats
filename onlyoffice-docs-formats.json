@@ -256,7 +256,7 @@
         "type": "cell",
         "actions": ["view", "edit"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xltm", "xltx"],
-        "mime": ["application/vnd.ms-excel.sheet.macroenabled.12"]
+        "mime": ["application/vnd.ms-excel.sheet.macroenabled.12", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"]
     },
     {
         "name": "xlsx",
