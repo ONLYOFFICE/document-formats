@@ -49,6 +49,10 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 * **CELL**: CSV, ODS, OTS
 * **SLIDE**: ODP, OTP
 
+**For reviewing:**
+
+* **WORD**: DOCM, DOCX, DOTM, DOTX, ODT, OTT, RTF
+
 **For filling:**
 
 * **PDF**: PDF

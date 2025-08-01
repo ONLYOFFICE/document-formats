@@ -1,5 +1,7 @@
 # Change Log
 
+- review for docm, docx, dotm, dotx, odt, ott, rtf
+
 ## 3.0.0
 - diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
 - view odg, md

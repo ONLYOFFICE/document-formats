@@ -9,14 +9,14 @@
     {
         "name": "docm",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "review"],
         "convert": ["docx", "bmp", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-word.document.macroenabled.12"]
     },
     {
         "name": "docx",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "review"],
         "convert": ["bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document"]
     },
@@ -30,14 +30,14 @@
     {
         "name": "dotm",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "review"],
         "convert": ["docx", "bmp", "docm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.ms-word.template.macroenabled.12"]
     },
     {
         "name": "dotx",
         "type": "word",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "review"],
         "convert": ["docx", "bmp", "docm", "dotm", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.template"]
     },
@@ -114,14 +114,14 @@
     {
         "name": "odt",
         "type": "word",
-        "actions": ["view", "lossy-edit", "auto-convert"],
+        "actions": ["view", "lossy-edit", "auto-convert", "review"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text"]
     },
     {
         "name": "ott",
         "type": "word",
-        "actions": ["view", "lossy-edit", "auto-convert"],
+        "actions": ["view", "lossy-edit", "auto-convert", "review"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["application/vnd.oasis.opendocument.text-template"]
     },
@@ -135,7 +135,7 @@
     {
         "name": "rtf",
         "type": "word",
-        "actions": ["view", "lossy-edit", "auto-convert"],
+        "actions": ["view", "lossy-edit", "auto-convert", "review"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "txt"],
         "mime": ["application/rtf", "text/rtf"]
     },
