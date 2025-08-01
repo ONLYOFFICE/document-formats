@@ -63,6 +63,13 @@
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
     {
+        "name": "gdoc",
+        "type": "word",
+        "actions": ["view"],
+        "convert": [],
+        "mime": ["application/vnd.google-apps.document"]
+    },
+    {
         "name": "htm",
         "type": "word",
         "actions": ["view", "auto-convert"],
@@ -210,6 +217,13 @@
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-flat-xml"]
     },
     {
+        "name": "gsheet",
+        "type": "word",
+        "actions": ["view"],
+        "convert": [],
+        "mime": ["application/vnd.google-apps.spreadsheet"]
+    },
+    {
         "name": "numbers",
         "type": "cell",
         "actions": ["view", "auto-convert"],
@@ -306,6 +320,13 @@
         "actions": ["view", "auto-convert"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
         "mime": ["application/vnd.oasis.opendocument.presentation-flat-xml"]
+    },
+    {
+        "name": "gslides",
+        "type": "word",
+        "actions": ["view"],
+        "convert": [],
+        "mime": ["application/vnd.google-apps.presentation"]
     },
     {
         "name": "key",
