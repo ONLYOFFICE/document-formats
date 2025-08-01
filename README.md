@@ -13,6 +13,7 @@ The repository is used in:
 * [ONLYOFFICE app for Odoo](https://github.com/ONLYOFFICE/onlyoffice_odoo)
 * [ONLYOFFICE app for ownCloud](https://github.com/ONLYOFFICE/onlyoffice-owncloud)
 * [ONLYOFFICE bot for Telegram](https://github.com/ONLYOFFICE/onlyoffice-telegram)
+* [ONLYOFFICE DocSpace](https://github.com/ONLYOFFICE/DocSpace)
 * [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
 * [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
 * [ONLYOFFICE extension for Directus](https://github.com/ONLYOFFICE/onlyoffice-directus)
