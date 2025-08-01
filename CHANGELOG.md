@@ -1,5 +1,6 @@
 # Change Log
 
+- customfilter for csv, ods, ots, xlsb, xlsm, xlsx, xltm, xltx
 - review for docm, docx, dotm, dotx, odt, ott, rtf
 
 ## 3.0.0

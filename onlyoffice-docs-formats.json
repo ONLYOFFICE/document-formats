@@ -184,7 +184,7 @@
     {
         "name": "csv",
         "type": "cell",
-        "actions": ["view", "lossy-edit"],
+        "actions": ["view", "lossy-edit", "customfilter"],
         "convert": ["xlsx", "bmp", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["text/csv", "application/csv", "text/x-comma-separated-values", "text/x-csv"]
     },
@@ -219,14 +219,14 @@
     {
         "name": "ods",
         "type": "cell",
-        "actions": ["view", "lossy-edit", "auto-convert"],
+        "actions": ["view", "lossy-edit", "auto-convert", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.oasis.opendocument.spreadsheet"]
     },
     {
         "name": "ots",
         "type": "cell",
-        "actions": ["view", "lossy-edit", "auto-convert"],
+        "actions": ["view", "lossy-edit", "auto-convert", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-template"]
     },
@@ -247,21 +247,21 @@
     {
         "name": "xlsb",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel.sheet.binary.macroenabled.12"]
     },
     {
         "name": "xlsm",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xltm", "xltx"],
         "mime": ["application/vnd.ms-excel.sheet.macroenabled.12", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"]
     },
     {
         "name": "xlsx",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "customfilter"],
         "convert": ["bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"]
     },
@@ -275,14 +275,14 @@
     {
         "name": "xltm",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltx"],
         "mime": ["application/vnd.ms-excel.template.macroenabled.12"]
     },
     {
         "name": "xltx",
         "type": "cell",
-        "actions": ["view", "edit"],
+        "actions": ["view", "edit", "customfilter"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xlsm", "xltm"],
         "mime": ["application/vnd.openxmlformats-officedocument.spreadsheetml.template"]
     },
