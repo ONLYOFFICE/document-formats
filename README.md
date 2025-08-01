@@ -61,6 +61,13 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 * **PDF**: PDF
 
+**For encrypting:**
+
+* **WORD**: DOCM, DOCX, DOTM, DOTX, ODT, OTT
+* **CELL**: ODS, OTS, XLSB, XLSM, XLSX, XLTM, XLTX
+* **SLIDE**: ODP, OTP, POTM, POTX, PPSM, PPSX, PPTM, PPTX
+* **PDF**: PDF
+
 **For converting to Office Open XML formats:**
 
 * **WORD**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, EPUB, FB2, FODT, HTM, HTML, HWP, HWPX, MD, MHT, MHTML, ODT, OTT, PAGES, RTF, STW, SXW, TXT, WPS, WPT, XML
