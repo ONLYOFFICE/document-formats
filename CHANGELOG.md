@@ -1,5 +1,6 @@
 # Change Log
 
+- added image extensions heic, heif, webp
 ## 3.0.0
 - diagram documentType for vsdx, vssx, vstx, vsdm, vssm, vstm
 - view odg, md
