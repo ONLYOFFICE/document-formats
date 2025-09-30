@@ -63,6 +63,13 @@
         "mime": ["application/vnd.oasis.opendocument.text-flat-xml"]
     },
     {
+        "name": "hml",
+        "type": "word",
+        "actions": ["view", "auto-convert"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["multipart/related"]
+    },
+    {
         "name": "htm",
         "type": "word",
         "actions": ["view", "auto-convert"],
