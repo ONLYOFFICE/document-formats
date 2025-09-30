@@ -1,5 +1,6 @@
 # Change Log
 
+- converting slide type to txt extension
 - hml format
 - added image extensions heic, heif, webp
 ## 3.0.0
