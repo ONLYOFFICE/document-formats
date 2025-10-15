@@ -1,5 +1,11 @@
 # Change Log
 
+- comment for docm, docx, dotm, dotx, odt, ott, rtf, ods, ots, xlsb, xlsm, xlsx, xltm, xltx, odp, otp, potm, potx, ppsm, ppsx, pptm, pptx, pdf
+- gdoc, gsheet, gslide
+- encrypt for docm, docx, dotm, dotx, odt, ott, ods, ots, xlsb, xlsm, xlsx, xltm, xltx, odp, otp, potm, potx, ppsm, ppsx, pptm, pptx, pdf
+- customfilter for csv, ods, ots, xlsb, xlsm, xlsx, xltm, xltx
+- review for docm, docx, dotm, dotx, odt, ott, rtf
+
 ## 3.1.0
 - converting slide type to txt extension
 - hml format
