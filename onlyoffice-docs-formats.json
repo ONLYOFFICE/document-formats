@@ -340,7 +340,7 @@
         "type": "slide",
         "actions": ["view", "auto-convert"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm", "txt"],
-        "mime": ["application/vnd.apple.keynote", "application/x-iwork-keynote-sffkey"]
+        "mime": ["application/vnd.apple.keynote", "application/x-iwork-keynote-sffkey", "application/vnd.apple.keynote.13"]
     },
     {
         "name": "odg",
