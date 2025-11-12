@@ -225,7 +225,7 @@
     },
     {
         "name": "gsheet",
-        "type": "word",
+        "type": "cell",
         "actions": ["view"],
         "convert": [],
         "mime": ["application/vnd.google-apps.spreadsheet"]
@@ -330,7 +330,7 @@
     },
     {
         "name": "gslides",
-        "type": "word",
+        "type": "slide",
         "actions": ["view"],
         "convert": [],
         "mime": ["application/vnd.google-apps.presentation"]
