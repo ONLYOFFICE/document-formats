@@ -95,7 +95,7 @@
         "type": "word",
         "actions": ["view", "auto-convert"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/x-hwp"]
+        "mime": ["application/x-hwp", "application/x-hwp-v5"]
     },
     {
         "name": "hwpx",
@@ -225,7 +225,7 @@
     },
     {
         "name": "gsheet",
-        "type": "word",
+        "type": "cell",
         "actions": ["view"],
         "convert": [],
         "mime": ["application/vnd.google-apps.spreadsheet"]
@@ -330,7 +330,7 @@
     },
     {
         "name": "gslides",
-        "type": "word",
+        "type": "slide",
         "actions": ["view"],
         "convert": [],
         "mime": ["application/vnd.google-apps.presentation"]
@@ -347,7 +347,7 @@
         "type": "slide",
         "actions": ["view", "auto-convert"],
         "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm", "txt"],
-        "mime": ["application/vnd.oasis.opendocument.presentationapplication/vnd.oasis.opendocument.graphics", "application/x-vnd.oasis.opendocument.graphics"]
+        "mime": ["application/vnd.oasis.opendocument.graphics", "application/x-vnd.oasis.opendocument.graphics"]
     },
     {
         "name": "odp",
