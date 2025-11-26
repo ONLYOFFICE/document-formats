@@ -4,6 +4,7 @@ This repository contains the list of file formats (electronic documents, forms, 
 
 The repository is used in:
 * [Document Server integration example](https://github.com/ONLYOFFICE/document-server-integration)
+* [ONLYOFFICE add-on for Thunderbird](https://github.com/ONLYOFFICE/onlyoffice-thunderbird)
 * [ONLYOFFICE addon for Plone](https://github.com/ONLYOFFICE/onlyoffice-plone)
 * [ONLYOFFICE app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
 * [ONLYOFFICE app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
