@@ -31,7 +31,7 @@ const buildSection = (sectionName, data) => {
   let md = `**${sectionName}:**\n\n`;
 
   for (const [type, names] of Object.entries(data)) {
-    md += `* **${type.toUpperCase()}**: ${names.join(", ")}\n`;
+    md += `- **${type.toUpperCase()}**: ${names.join(", ")}\n`;
   }
 
   return md;
