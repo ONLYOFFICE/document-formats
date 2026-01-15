@@ -532,11 +532,11 @@
         "mime": ["image/gif"]
     },
     {
-        "name": "heiс",
+        "name": "heic",
         "type": "",
         "actions": [],
         "convert": [],
-        "mime": ["image/heiс"]
+        "mime": ["image/heic"]
     },
     {
         "name": "heif",
