@@ -1,5 +1,6 @@
 # Change Log
 
+- conversion to md
 - tsv format
 - comment for docm, docx, dotm, dotx, odt, ott, rtf, ods, ots, xlsb, xlsm, xlsx, xltm, xltx, odp, otp, potm, potx, ppsm, ppsx, pptm, pptx, pdf
 - gdoc, gsheet, gslide
