@@ -19,10 +19,11 @@ The repository is used in:
 - [ONLYOFFICE DocSpace](https://github.com/ONLYOFFICE/DocSpace)
 - [ONLYOFFICE Docs Integration Java SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-java)
 - [ONLYOFFICE Docs Integration PHP SDK](https://github.com/ONLYOFFICE/docs-integration-sdk-php)
+- [ONLYOFFICE Docs plugin for WordPress](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
+- [ONLYOFFICE Chrome Extension](https://github.com/ONLYOFFICE/onlyoffice-chrome-extension)
 - [ONLYOFFICE extension for Directus](https://github.com/ONLYOFFICE/onlyoffice-directus)
 - [ONLYOFFICE module for HumHub](https://github.com/ONLYOFFICE/onlyoffice-humhub)
 - [ONLYOFFICE plugin for Redmine](https://github.com/ONLYOFFICE/onlyoffice-redmine)
-- [ONLYOFFICE Docs plugin for WordPress](https://github.com/ONLYOFFICE/onlyoffice-wordpress)
 
 ## Project info
 
