@@ -318,21 +318,21 @@
         "name": "dps",
         "type": "slide",
         "actions": ["view", "auto-convert"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm", "txt"],
         "mime": []
     },
     {
         "name": "dpt",
         "type": "slide",
         "actions": ["view", "auto-convert"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm", "txt"],
         "mime": []
     },
     {
         "name": "fodp",
         "type": "slide",
         "actions": ["view", "auto-convert"],
-        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm"],
+        "convert": ["pptx", "bmp", "gif", "jpg", "odp", "otp", "pdf", "pdfa", "png", "potm", "potx", "ppsm", "ppsx", "pptm", "txt"],
         "mime": ["application/vnd.oasis.opendocument.presentation-flat-xml"]
     },
     {
