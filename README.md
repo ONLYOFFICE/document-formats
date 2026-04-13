@@ -25,6 +25,7 @@ The repository is used in:
 - [ONLYOFFICE extension for Directus](https://github.com/ONLYOFFICE/onlyoffice-directus)
 - [ONLYOFFICE module for HumHub](https://github.com/ONLYOFFICE/onlyoffice-humhub)
 - [ONLYOFFICE plugin for Redmine](https://github.com/ONLYOFFICE/onlyoffice-redmine)
+- [ONLYOFFICE solution for SharePoint](https://github.com/ONLYOFFICE/onlyoffice-sharepoint)
 
 ## Project info
 
