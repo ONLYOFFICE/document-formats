@@ -7,7 +7,6 @@ The repository is used in:
 - [ONLYOFFICE add-on for Thunderbird](https://github.com/ONLYOFFICE/onlyoffice-thunderbird)
 - [ONLYOFFICE addon for Plone](https://github.com/ONLYOFFICE/onlyoffice-plone)
 - [ONLYOFFICE app for Box](https://github.com/ONLYOFFICE/onlyoffice-box)
-- [ONLYOFFICE app for Confluence Cloud](https://github.com/ONLYOFFICE/onlyoffice-confluence-cloud)
 - [ONLYOFFICE app for Dropbox](https://github.com/ONLYOFFICE/onlyoffice-dropbox)
 - [ONLYOFFICE app for Mattermost](https://github.com/ONLYOFFICE/onlyoffice-mattermost)
 - [ONLYOFFICE app for Miro](https://github.com/ONLYOFFICE/onlyoffice-miro)
