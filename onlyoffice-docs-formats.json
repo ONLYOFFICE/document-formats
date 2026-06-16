@@ -483,6 +483,13 @@
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
+        "name": "ofd",
+        "type": "pdf",
+        "actions": ["view"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/ofd"]
+    },
+    {
         "name": "vsdx",
         "type": "diagram",
         "actions": ["view"],
