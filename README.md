@@ -52,12 +52,12 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 **For editing with possible loss of information:**
 
 - **WORD**: EPUB, FB2, HTML, ODT, OTT, RTF, TXT
-- **CELL**: CSV, ODS, OTS, TSV
+- **CELL**: CSV, ODS, OTS, TSV, XLS
 - **SLIDE**: ODP, OTP
 
 **For editing with custom filter:**
 
-- **CELL**: CSV, ODS, OTS, TSV, XLSB, XLSM, XLSX, XLTM, XLTX
+- **CELL**: CSV, ODS, OTS, TSV, XLS, XLSB, XLSM, XLSX, XLTM, XLTX
 
 **For reviewing:**
 
@@ -66,7 +66,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 **For commenting:**
 
 - **WORD**: DOCM, DOCX, DOTM, DOTX, ODT, OTT, RTF
-- **CELL**: ODS, OTS, XLSB, XLSM, XLSX, XLTM, XLTX
+- **CELL**: ODS, OTS, XLS, XLSB, XLSM, XLSX, XLTM, XLTX
 - **SLIDE**: ODP, OTP, POTM, POTX, PPSM, PPSX, PPTM, PPTX
 - **PDF**: PDF
 
