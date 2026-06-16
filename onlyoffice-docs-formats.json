@@ -448,20 +448,6 @@
         "mime": ["image/vnd.djvu"]
     },
     {
-        "name": "docxf",
-        "type": "pdf",
-        "actions": ["view"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.docxf"]
-    },
-    {
-        "name": "oform",
-        "type": "pdf",
-        "actions": ["view"],
-        "convert": ["pdf"],
-        "mime": ["application/vnd.openxmlformats-officedocument.wordprocessingml.document.oform"]
-    },
-    {
         "name": "oxps",
         "type": "pdf",
         "actions": ["view"],
