@@ -107,7 +107,7 @@
     {
         "name": "md",
         "type": "word",
-        "actions": ["view", "auto-convert"],
+        "actions": ["view", "lossy-edit"],
         "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
         "mime": ["text/markdown"]
     },

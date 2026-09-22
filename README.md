@@ -51,7 +51,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 
 **For editing with possible loss of information:**
 
-- **WORD**: EPUB, FB2, HTML, ODT, OTT, RTF, TXT
+- **WORD**: EPUB, FB2, HTML, MD, ODT, OTT, RTF, TXT
 - **CELL**: CSV, ODS, OTS, TSV, XLS
 - **SLIDE**: ODP, OTP
 
