@@ -1,5 +1,11 @@
 # Change Log
 
+##
+- ofd format
+- editing xls
+- support for docxf and oform formats has been removed
+- lossy-edit for md
+
 ## 3.2.0
 - conversion to md
 - tsv format
