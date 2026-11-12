@@ -486,49 +486,49 @@
         "name": "vsdm",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.drawing.macroEnabled.12"]
     },
     {
         "name": "vss",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png", "vsdx"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.visio"]
     },
     {
         "name": "vssm",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.stencil.macroEnabled.12"]
     },
     {
         "name": "vssx",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.stencil"]
     },
     {
         "name": "vst",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png", "vsdx"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.visio"]
     },
     {
         "name": "vstm",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.template.macroEnabled.12"]
     },
     {
         "name": "vstx",
         "type": "diagram",
         "actions": ["view"],
-        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.template"]
     },
     {
