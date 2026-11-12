@@ -490,6 +490,13 @@
         "mime": ["application/vnd.ms-visio.drawing.macroEnabled.12"]
     },
     {
+        "name": "vss",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png", "vsdx"],
+        "mime": ["application/vnd.visio"]
+    },
+    {
         "name": "vssm",
         "type": "diagram",
         "actions": ["view"],
@@ -502,6 +509,13 @@
         "actions": ["view"],
         "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.stencil"]
+    },
+    {
+        "name": "vst",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png", "vsdx"],
+        "mime": ["application/vnd.visio"]
     },
     {
         "name": "vstm",

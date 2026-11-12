@@ -1,5 +1,8 @@
 # Change Log
 
+##
+- view vss, vst
+
 ## 3.3.0
 - ofd format
 - editing xls

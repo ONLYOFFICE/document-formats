@@ -42,7 +42,7 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 - **CELL**: CSV, ET, ETT, FODS, GSHEET, NUMBERS, ODS, OTS, SXC, TSV, XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
 - **SLIDE**: DPS, DPT, FODP, GSLIDES, KEY, ODG, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX, SXI
 - **PDF**: DJVU, OFD, OXPS, PDF, XPS
-- **DIAGRAM**: VSDM, VSDX, VSSM, VSSX, VSTM, VSTX
+- **DIAGRAM**: VSDM, VSDX, VSS, VSSM, VSSX, VST, VSTM, VSTX
 
 **For editing:**
 
