@@ -192,7 +192,7 @@
         "name": "xml",
         "type": "word",
         "actions": ["view", "auto-convert"],
-        "convert": ["docx", "xlsx", "bmp", "csv", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "ods", "odt", "ots", "ott", "pdf", "pdfa", "png", "rtf", "txt", "tsv", "xls", "xlsm", "xltm", "xltx"],
+        "convert": ["docx", "xlsx", "bmp", "csv", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "ods", "odt", "ots", "ott", "pdf", "pdfa", "png", "rtf", "tsv", "txt", "xls", "xlsm", "xltm", "xltx"],
         "mime": ["application/xml", "text/xml"]
     },
     {
