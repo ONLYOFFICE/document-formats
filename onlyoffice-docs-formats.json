@@ -252,18 +252,18 @@
         "mime": ["application/vnd.oasis.opendocument.spreadsheet-template"]
     },
     {
-        "name": "tsv",
-        "type": "cell",
-        "actions": ["view", "lossy-edit", "customfilter"],
-        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xls", "xlsm", "xltm", "xltx"],
-        "mime": ["text/tab-separated-values"]
-    },
-    {
         "name": "sxc",
         "type": "cell",
         "actions": ["view", "auto-convert"],
         "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "tsv", "xls", "xlsm", "xltm", "xltx"],
         "mime": ["application/vnd.sun.xml.calc"]
+    },
+    {
+        "name": "tsv",
+        "type": "cell",
+        "actions": ["view", "lossy-edit", "customfilter"],
+        "convert": ["xlsx", "bmp", "csv", "gif", "jpg", "ods", "ots", "pdf", "pdfa", "png", "xls", "xlsm", "xltm", "xltx"],
+        "mime": ["text/tab-separated-values"]
     },
     {
         "name": "xls",
@@ -448,6 +448,13 @@
         "mime": ["image/vnd.djvu"]
     },
     {
+        "name": "ofd",
+        "type": "pdf",
+        "actions": ["view"],
+        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
+        "mime": ["application/ofd"]
+    },
+    {
         "name": "oxps",
         "type": "pdf",
         "actions": ["view"],
@@ -469,11 +476,11 @@
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
-        "name": "ofd",
-        "type": "pdf",
+        "name": "vsdm",
+        "type": "diagram",
         "actions": ["view"],
-        "convert": ["docx", "bmp", "docm", "dotm", "dotx", "epub", "fb2", "gif", "html", "jpg", "md", "odt", "ott", "pdf", "pdfa", "png", "rtf", "txt"],
-        "mime": ["application/ofd"]
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.ms-visio.drawing.macroEnabled.12"]
     },
     {
         "name": "vsdx",
@@ -481,13 +488,6 @@
         "actions": ["view"],
         "convert": ["bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.ms-visio.drawing", "application/vnd.visio2013", "application/vnd.visio"]
-    },
-    {
-        "name": "vsdm",
-        "type": "diagram",
-        "actions": ["view"],
-        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
-        "mime": ["application/vnd.ms-visio.drawing.macroEnabled.12"]
     },
     {
         "name": "vss",
