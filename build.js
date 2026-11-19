@@ -26,7 +26,7 @@ const filterByAction = (formats, action) => {
 }
 
 const filterByConvertToOOXML = (formats) => {
-  return formats.filter(format => format.convert.some(type => ["docx", "xlsx", "pptx"].includes(type)) );
+  return formats.filter(format => format.convert.some(type => ["docx", "xlsx", "pptx", "vsdx"].includes(type)) );
 }
 
 const groupByType = (formats) => {

@@ -89,3 +89,4 @@ Official website: [www.onlyoffice.com](https://www.onlyoffice.com/)
 - **CELL**: CSV, ET, ETT, FODS, NUMBERS, ODS, OTS, SXC, TSV, XLS, XLSB, XLSM, XLT, XLTM, XLTX
 - **SLIDE**: DPS, DPT, FODP, KEY, ODG, ODP, OTP, POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, SXI
 - **PDF**: OFD, OXPS, PDF, XPS
+- **DIAGRAM**: VSD, VSDM, VSS, VSSM, VSSX, VST, VSTM, VSTX
