@@ -478,7 +478,7 @@
     {
         "name": "vsd",
         "type": "diagram",
-        "actions": ["view"],
+        "actions": ["view", "auto-convert"],
         "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.visio"]
     },
@@ -499,7 +499,7 @@
     {
         "name": "vss",
         "type": "diagram",
-        "actions": ["view"],
+        "actions": ["view", "auto-convert"],
         "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.visio"]
     },
@@ -520,7 +520,7 @@
     {
         "name": "vst",
         "type": "diagram",
-        "actions": ["view"],
+        "actions": ["view", "auto-convert"],
         "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
         "mime": ["application/vnd.visio"]
     },

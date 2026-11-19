@@ -3,6 +3,7 @@
 ##
 - view vsd, vss, vst
 - conversion to vsdx for vsdm, vssm, vssx, vstm, vstx
+- auto-convert for vsd, vss, vst
 
 ## 3.3.0
 - ofd format
