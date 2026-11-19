@@ -476,6 +476,13 @@
         "mime": ["application/vnd.ms-xpsdocument", "application/xps"]
     },
     {
+        "name": "vsd",
+        "type": "diagram",
+        "actions": ["view"],
+        "convert": ["vsdx", "bmp", "gif", "jpg", "pdf", "pdfa", "png"],
+        "mime": ["application/vnd.visio"]
+    },
+    {
         "name": "vsdm",
         "type": "diagram",
         "actions": ["view"],

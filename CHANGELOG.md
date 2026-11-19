@@ -1,7 +1,7 @@
 # Change Log
 
 ##
-- view vss, vst
+- view vsd, vss, vst
 - conversion to vsdx for vsdm, vssm, vssx, vstm, vstx
 
 ## 3.3.0
